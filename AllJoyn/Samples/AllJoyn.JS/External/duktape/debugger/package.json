@@ -10,7 +10,8 @@
     "bluebird": "~2.6.4",
 
 
-    "minimist": "~1.2.3",
+    "minimist": "~1.1.0",
+    "express": "~4.16.0",
 
     "body-parser": "~1.19.0",
 
